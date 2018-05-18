@@ -17,6 +17,7 @@ References
 - [Charnok and Moss, 2017](https://arxiv.org/abs/1606.07442) - *Deep recurrent Neural Networks for Supernovae classification*  
 - [Dai *et al*, 2017](https://arxiv.org/abs/1701.05689) - *Photometric classiffication and redshift estimation of LSST Supernovae*  
 - [Revsbech *et al*, 2017](https://arxiv.org/abs/1706.03811) - *STACCATO: A Novel Solution to Supernova Photometric Classification with Biased Training sets*  
+- [Ishida *et al*, 2018](https://arxiv.org/abs/1804.03765) - *Optimizing spectroscopic follow-up strategies for supernova photometric classification with active learning*  
   
 
 ## Why are there different types of Supernovae?
