@@ -41,7 +41,9 @@ given during [ADA IX Summer School][ada] held on 20-22 May 2018 in Valencia, Spa
 ### Hands on deep learning
 
 > Neurons and backpropagation  
-> Layers, activation, pooling  
+> Convolutional neural networks
+> In practice
+> Common optimizations
 
 [Slides]()  
 [References]()  
