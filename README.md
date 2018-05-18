@@ -49,7 +49,7 @@ for [ADA9 Summer School](http://ada.cosmostat.org/) held on 20-22 May 2018 in Va
 
 > Supernova Photometric Classification as a Data Challenge
 
-[RAMP starting-kit](https://github.com/ramp-kits/supernovae)
+[RAMP starting-kit](https://github.com/ramp-kits/supernovae)  
 [PLAsTiCC](https://plasticcblog.wordpress.com/s) - Photometric LSST Astronomical Time-series Classification Challenge
 
 
