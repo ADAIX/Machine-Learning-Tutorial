@@ -4,10 +4,10 @@ given during [ADA IX Summer School][ada] held on 20-22 May 2018 in Valencia, Spa
 
 ## Authors
 
-Emille E. O. Ishida - CNRS/LPC-Clermont, France  
+**Emille E. O. Ishida** - CNRS/LPC-Clermont, France  
 [email][mei], [twitter][tei], [website][wei]
 
-Alexandre Boucaud - Paris-Saclay Center for Data Science, France  
+**Alexandre Boucaud** - Paris-Saclay Center for Data Science, France  
 [email][mab], [twitter][tab], [github][gab]
 
 [mei]: mailto:emilleishida@gmail.com
