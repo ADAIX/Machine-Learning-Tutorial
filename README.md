@@ -36,10 +36,10 @@ for [ADA9 Summer School](http://ada.cosmostat.org/) held on 20-22 May 2018 in Va
 ## Beyond text-book Machine Learning
 *Session 3 - 20 May 2018, 17:15h - 18:15h*
 
-> Adaptive
-> Reinforcement
-> Self-trained
-
+> Adaptive  
+> Reinforcement  
+> Self-trained  
+ 
 
 [Slides]()  
 [References]()  
