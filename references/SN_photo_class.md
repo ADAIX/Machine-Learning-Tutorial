@@ -1,5 +1,5 @@
 # Supernova Photometric Classification
-================
+References 
 
 
 ## Light curves
