@@ -2,7 +2,7 @@
 References 
 
 
-## Light curves
+## Light-curve based classifiers
 
 - [Kessler *et al*, 2009](https://arxiv.org/abs/1008.1024) - *Results from the Supernova Photometric Classification Challenge*  
 - [Connolly and Connolly, 2009](https://arxiv.org/abs/0909.3652) - *A Bayesian Approach to Classifying Supernovae With Color*  
