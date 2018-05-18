@@ -21,8 +21,3 @@ given during [ADA IX Summer School][ada] held on 20-22 May 2018 in Valencia, Spa
 [ada]: http://ada.cosmostat.org/
 
 
-## Lectures
-
-
-## Tutorials
-
