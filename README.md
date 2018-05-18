@@ -21,3 +21,53 @@ given during [ADA IX Summer School][ada] held on 20-22 May 2018 in Valencia, Spa
 [ada]: http://ada.cosmostat.org/
 
 
+## Introduction
+*Session 1 - 20 May 2018, 11:15h - 13:00h*
+
+> Basic principles of Machine Learning  
+> Supervised and unsupervised learning  
+
+[Slides]()  
+[References]()  
+
+> Machine Learning in practice
+
+[Regression]()  
+[Classification]()  
+
+## From NN to CNN
+*Session 2 - 20 May 2018, 14:00h - 15:45h*  
+
+> Neurons and backpropagation  
+> Layers, activation, pooling  
+
+[Slides]()  
+[References]()  
+
+> Data Science workflow
+
+[Slides]()  
+[Reference]()  
+  
+## Beyond text-book Machine Learning
+*Session 3 - 20 May 2018, 17:15h - 18:15h*
+
+> Adaptive  
+> Reinforcement  
+> Self-trained  
+ 
+
+[Slides]()  
+[References]()  
+
+
+## Extra Material
+
+> Supernova Photometric Classification as a Data Challenge
+
+[RAMP starting-kit](https://github.com/ramp-kits/supernovae)  
+[PLAsTiCC](https://plasticcblog.wordpress.com/) - Photometric LSST Astronomical Time-series Classification Challenge
+
+
+
+ 
