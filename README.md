@@ -40,15 +40,17 @@ given during [ADA IX Summer School][ada] held on 20-22 May 2018 in Valencia, Spa
 ## From NN to CNN
 *Session 2 - 20 May 2018, 14:00h - 15:45h*  
 
-### Hands on deep learning
+### [Hands on deep learning][dlslides]
+
 
 > Neurons and backpropagation  
 > Convolutional neural networks  
 > In practice  
 > Common optimizations
 
-[Slides](notebooks/wait.ipynb)  
-[References](references/DeepLearning.md)  
+[references](references/DeepLearning.md)  
+
+[dlslides]:https://aboucaud.github.io/adaix-ml-tutorial/slides/hands-on-deep-learning
 
 ### Cooking a simple neural network library
 

@@ -1,4 +1,4 @@
-# Neural networks and deep learning  
+# Neural networks and deep learning references
 
 Here is a selection of lectures, blog posts or GitHub repositories related to deep learning.
 
