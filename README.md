@@ -52,8 +52,7 @@ given during [ADA IX Summer School][ada] held on 20-22 May 2018 in Valencia, Spa
 
 ### Cooking a simple neural network library
 
-[notebook](notebooks/wait.ipynb)  
-[solutions](notebooks/wait.ipynb)
+[notebook](notebooks/simple_nn_library.ipynb) - [solutions](notebooks/wait.ipynb)
   
 ## Beyond text-book Machine Learning
 *Session 3 - 20 May 2018, 17:15h - 18:15h*
