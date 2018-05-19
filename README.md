@@ -28,12 +28,14 @@ given during [ADA IX Summer School][ada] held on 20-22 May 2018 in Valencia, Spa
 > Supervised and unsupervised learning  
 
 [Slides]()  
-[References]()  
+[References](references/SN_photo_class.md)  
 
-> Machine Learning in practice
+### Tutorial session: Machine Learning in practice
 
 [Regression]()  
-[Classification]()  
+
+**Classification** - [notebook](notebooks/star-galaxy_classification.ipynb) - 
+[solutions](notebooks/wait.ipynb)
 
 ## From NN to CNN
 *Session 2 - 20 May 2018, 14:00h - 15:45h*  
@@ -45,12 +47,13 @@ given during [ADA IX Summer School][ada] held on 20-22 May 2018 in Valencia, Spa
 > In practice  
 > Common optimizations
 
-[Slides]()  
-[References]()  
+[Slides](notebooks/wait.ipynb)  
+[References](references/DeepLearning.md)  
 
 ### Cooking a simple neural network library
 
-[Notebook]()  
+[notebook](notebooks/wait.ipynb)  
+[solutions](notebooks/wait.ipynb)
   
 ## Beyond text-book Machine Learning
 *Session 3 - 20 May 2018, 17:15h - 18:15h*
