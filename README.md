@@ -38,16 +38,19 @@ given during [ADA IX Summer School][ada] held on 20-22 May 2018 in Valencia, Spa
 ## From NN to CNN
 *Session 2 - 20 May 2018, 14:00h - 15:45h*  
 
+### Hands on deep learning
+
 > Neurons and backpropagation  
-> Layers, activation, pooling  
+> Convolutional neural networks  
+> In practice  
+> Common optimizations
 
 [Slides]()  
 [References]()  
 
-> Data Science workflow
+### Cooking a simple neural network library
 
-[Slides]()  
-[Reference]()  
+[Notebook]()  
   
 ## Beyond text-book Machine Learning
 *Session 3 - 20 May 2018, 17:15h - 18:15h*
@@ -56,7 +59,6 @@ given during [ADA IX Summer School][ada] held on 20-22 May 2018 in Valencia, Spa
 > Reinforcement  
 > Self-trained  
  
-
 [Slides]()  
 [References]()  
 
