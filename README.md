@@ -27,7 +27,7 @@ given during [ADA IX Summer School][ada] held on 20-22 May 2018 in Valencia, Spa
 > Basic principles of Machine Learning  
 > Supervised and unsupervised learning  
 
-[Slides]()  
+[Slides](slides/ADAIX-ML_introduction.pdf)  
 [References](references/SN_photo_class.md)  
 
 ### Tutorial session: Machine Learning in practice
