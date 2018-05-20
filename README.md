@@ -45,13 +45,13 @@ given during [ADA IX Summer School][ada] held on 20-22 May 2018 in Valencia, Spa
 > In practice  
 > Common optimizations
 
-[slides][dlslides] - [references](references/DeepLearning.md)  
+[slides][dlslides] - [references](references/DeepLearning.md) - [solution of exercise](code/deep_learning_talk-exercise_solution.py)
 
 [dlslides]:https://aboucaud.github.io/adaix-ml-tutorial/slides/hands-on-deep-learning
 
 ### Cooking a simple neural network library
 
-[notebook](notebooks/simple_nn_library.ipynb) - [solutions](notebooks/wait.ipynb)
+[notebook](notebooks/simple_nn_library.ipynb) - [solutions](notebooks/simple_nn_library-solution.ipynb)
   
 ## Beyond text-book Machine Learning
 *Session 3 - 20 May 2018, 17:15h - 18:15h*
@@ -60,8 +60,7 @@ given during [ADA IX Summer School][ada] held on 20-22 May 2018 in Valencia, Spa
 > Reinforcement  
 > Self-trained  
  
-[Slides]()  
-[References]()  
+[slides]() - [references]()  
 
 
 ## Extra Material
