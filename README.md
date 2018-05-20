@@ -32,7 +32,7 @@ given during [ADA IX Summer School][ada] held on 20-22 May 2018 in Valencia, Spa
 
 ### Tutorial session: Machine Learning in practice
 
-[Regression]()  
+[Regression](notebooks/Regression_PhotoZ.ipynb)  
 
 **Classification** - [notebook](notebooks/star-galaxy_classification.ipynb) - 
 [solutions](notebooks/wait.ipynb)
