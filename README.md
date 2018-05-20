@@ -21,7 +21,7 @@ given during [ADA IX Summer School][ada] held on 20-22 May 2018 in Valencia, Spa
 [ada]: http://ada.cosmostat.org/
 
 
-## Introduction
+## [Introduction](https://aboucaud.github.io/adaix-ml-tutorial/slides/intro)
 *Session 1 - 20 May 2018, 11:15h - 13:00h*
 
 > Basic principles of Machine Learning  
