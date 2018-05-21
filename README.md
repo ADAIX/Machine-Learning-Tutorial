@@ -27,34 +27,31 @@ given during [ADA IX Summer School][ada] held on 20-22 May 2018 in Valencia, Spa
 > Basic principles of Machine Learning  
 > Supervised and unsupervised learning  
 
-[Slides](slides/ADAIX-ML_introduction.pdf)  
-[References](references/SN_photo_class.md)  
+[slides](slides/ADAIX-ML_introduction.pdf) - [references](references/SN_photo_class.md)  
 
 ### Tutorial session: Machine Learning in practice
 
-[Regression](notebooks/Regression_PhotoZ.ipynb)  
+**Regression** - [notebook](notebooks/Regression_PhotoZ.ipynb)  
 
-**Classification** - [notebook](notebooks/star-galaxy_classification.ipynb) - 
-[solutions](notebooks/wait.ipynb)
+**Classification** - [notebook](notebooks/star-galaxy_classification.ipynb)
 
 ## From NN to CNN
 *Session 2 - 20 May 2018, 14:00h - 15:45h*  
 
-### [Hands on deep learning][dlslides]
-
+### Hands on deep learning
 
 > Neurons and backpropagation  
 > Convolutional neural networks  
 > In practice  
 > Common optimizations
 
-[references](references/DeepLearning.md)  
+[slides][dlslides] - [references](references/DeepLearning.md) - [solution of exercise](code/deep_learning_talk-exercise_solution.py)
 
 [dlslides]:https://aboucaud.github.io/adaix-ml-tutorial/slides/hands-on-deep-learning
 
 ### Cooking a simple neural network library
 
-[notebook](notebooks/simple_nn_library.ipynb) - [solutions](notebooks/wait.ipynb)
+[notebook](notebooks/simple_nn_library.ipynb) - [solutions](notebooks/simple_nn_library-solution.ipynb)
   
 ## Beyond text-book Machine Learning
 *Session 3 - 20 May 2018, 17:15h - 18:15h*
@@ -63,8 +60,7 @@ given during [ADA IX Summer School][ada] held on 20-22 May 2018 in Valencia, Spa
 > Reinforcement  
 > Self-trained  
  
-[Slides]()  
-[References]()  
+[slides]() - [references]()  
 
 
 ## Extra Material
