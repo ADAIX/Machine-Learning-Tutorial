@@ -27,7 +27,11 @@ given during [ADA IX Summer School][ada] held on 20-22 May 2018 in Valencia, Spa
 > Basic principles of Machine Learning  
 > Supervised and unsupervised learning  
 
-[slides](slides/ADAIX-ML_introduction.pdf) - [references](references/SN_photo_class.md)  
+[slides](slides/ADAIX-ML_introduction.pdf)  
+
+[Regression example: Boston dataset](notebooks/Regression_boston.ipynb)  
+[Regression example: Photometric redshift estimation](notebooks/Regression_PhotoZ.ipynb)  
+
 
 ### Tutorial session: Machine Learning in practice
 
@@ -60,7 +64,7 @@ given during [ADA IX Summer School][ada] held on 20-22 May 2018 in Valencia, Spa
 > Reinforcement  
 > Self-trained  
  
-[slides]() - [references]()  
+[slides](slides/ADAIX_ML_Beyond.pdf)
 
 
 ## Extra Material
@@ -69,7 +73,7 @@ given during [ADA IX Summer School][ada] held on 20-22 May 2018 in Valencia, Spa
 
 [RAMP starting-kit](https://github.com/ramp-kits/supernovae)  
 [PLAsTiCC](https://plasticcblog.wordpress.com/) - Photometric LSST Astronomical Time-series Classification Challenge
-
+[References](references/SN_photo_class.md)
 
 
  
