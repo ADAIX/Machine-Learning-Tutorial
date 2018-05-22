@@ -33,5 +33,5 @@ PyTorch examples - [link](https://github.com/pytorch/examples)
 
 ## Recent reviews (2018)
 
-Machine learning for physicists - [link](https://arxiv.org/abs/1803.08823)
+Machine learning for physicists - [link](https://arxiv.org/abs/1803.08823)  
 Understanding DNNs - [link](https://arxiv.org/abs/1803.08834)
