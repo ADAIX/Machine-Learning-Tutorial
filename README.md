@@ -49,7 +49,9 @@ given during [ADA IX Summer School][ada] held on 20-22 May 2018 in Valencia, Spa
 > In practice  
 > Common optimizations
 
-[slides][dlslides] - [references](references/DeepLearning.md) - [solution of exercise](code/deep_learning_talk-exercise_solution.py)
+[slides][dlslides]* - [references](references/DeepLearning.md) - [solution of exercise](code/deep_learning_talk-exercise_solution.py)
+
+_*use arrow keys to navigate between slides_
 
 [dlslides]:https://aboucaud.github.io/adaix-ml-tutorial/slides/hands-on-deep-learning
 
